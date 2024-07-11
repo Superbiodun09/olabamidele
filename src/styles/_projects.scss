@@ -46,8 +46,7 @@
 .images-right {
   @media only screen and (min-width: $cut) {
     float: right;
-    justify-content: center;
-    align-items: center;
+    margin-top: 52px;
     width: 48%;
   }
   img {
